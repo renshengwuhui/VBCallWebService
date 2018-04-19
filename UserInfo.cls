@@ -11,9 +11,9 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = True
 Attribute VB_PredeclaredId = False
 Attribute VB_Exposed = False
-'Author:ÈËÉúÎÞ»Ú-ÕÅ½¨¹ú
+'Author:äººç”Ÿæ— æ‚”-å¼ å»ºå›½
 'Date:2018-04-19
-'Comment:ÓÃ»§
+'Comment:ç”¨æˆ·
 
 Option Explicit
 
